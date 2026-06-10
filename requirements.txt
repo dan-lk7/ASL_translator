@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+torch
+transformers
+numpy
+pillow
+tqdm
+scikit-learn
+ultralytics
+safetensors
+streamlit-webrtc
