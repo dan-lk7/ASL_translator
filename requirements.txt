@@ -1,0 +1,13 @@
+streamlit
+imageio
+imageio-ffmpeg
+opencv-python-headless
+torch
+transformers
+numpy
+pillow
+tqdm
+scikit-learn
+ultralytics==8.4.63
+safetensors
+gTTS==2.2.4
